@@ -1,8 +1,8 @@
 # AutoLauncher
-Program Auto Launcher<br></br>
+<h3>Program Auto Launcher</h3>
 <h4>특정 시간 단위로 프로그램(폴더 외, 모든 확장자 가능)을 자동으로 실행시켜주는 프로그램입니다.</h4>
 
-![main](https://user-images.githubusercontent.com/40781419/54646735-6be96400-4ae3-11e9-93a5-61d3dde10e03.png)<br></br>
+![main](https://user-images.githubusercontent.com/40781419/54646735-6be96400-4ae3-11e9-93a5-61d3dde10e03.png)
 
 <br></br>프로그램 실행 시 보여지는 메인 화면입니다.<br></br>
 
