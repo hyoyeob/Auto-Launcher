@@ -1,6 +1,6 @@
 # AutoLauncher
 <h3>Program Auto Launcher</h3>
-특정 시간 단위로 프로그램(폴더 외, 모든 확장자 가능)을 자동으로 실행시켜주는 프로그램입니다.<br>
+특정 시간 단위로 프로그램(폴더 외, 모든 확장자 가능)을 자동으로 실행시켜주는 프로그램입니다.<br><br>
 
 ![main](https://user-images.githubusercontent.com/40781419/54646735-6be96400-4ae3-11e9-93a5-61d3dde10e03.png)
 
@@ -16,7 +16,7 @@ Launch 버튼을 누르면 자동으로 프로그램이 실행되며, Setting �
 Log를 누르면 현재까지 실행된 프로그램의 동작 로그를 확인할 수 있습니다. <br><br>
 
 ![popup](https://user-images.githubusercontent.com/40781419/54646731-6b50cd80-4ae3-11e9-9ed7-c3d2b8edd0fe.png)
-프로그램 종료 시 자동으로 서비스가 종료되며, 메인화면에서 Hide를 눌러야 단추 아이콘이 생성되며 서비스를 유지할 수 있습니다. 이 프로그램은 jar 추출 후 exe로 따로 만들어 사용할 수 있으며, 추후 공개하거나 이메일로 요청 시 보내드리겠습니다.<br><br>
+<br>프로그램 종료 시 자동으로 서비스가 종료되며, 메인화면에서 Hide를 눌러야 단추 아이콘이 생성되며 서비스를 유지할 수 있습니다. 이 프로그램은 jar 추출 후 exe로 따로 만들어 사용할 수 있으며, 추후 공개하거나 이메일로 요청 시 보내드리겠습니다.<br><br>
 
     email: hyoyeob@naver.com
     Name: Hyoyeob Kim
