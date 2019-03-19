@@ -1,0 +1,25 @@
+==================================
+2019-03-20 07:14:17 / Program Strat
+2019-03-20 07:14:19 / Launch Start: C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:19 / Launch Time Cycle: 3600 sec
+2019-03-20 07:14:19 / Launch: Count= 1, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:24 / Launch: Task Stop
+2019-03-20 07:14:27 / Setting: Repeat cycle set to 3 seconds. Relaunch now.
+2019-03-20 07:14:33 / Launch Start: C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:33 / Launch Time Cycle: 3 sec
+2019-03-20 07:14:33 / Launch: Count= 1, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:36 / Launch: Count= 2, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:39 / Launch: Count= 3, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:42 / Launch: Count= 4, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:45 / Launch: Count= 5, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:49 / Launch: Count= 6, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher
+2019-03-20 07:14:50 / Launch: Task Stop
+2019-03-20 07:14:59 / Path Change: C:\Users\hyoye\eclipse-workspace\AutoLauncher\src\AutoLauncher\AutoLauncher.java
+2019-03-20 07:15:01 / Launch Start: C:\Users\hyoye\eclipse-workspace\AutoLauncher\src\AutoLauncher\AutoLauncher.java
+2019-03-20 07:15:01 / Launch Time Cycle: 3 sec
+2019-03-20 07:15:01 / Launch: Count= 1, Path= C:\Users\hyoye\eclipse-workspace\AutoLauncher\src\AutoLauncher\AutoLauncher.java
+2019-03-20 07:15:04 / Launch: Task Stop
+2019-03-20 07:15:11 / Program Exit
+==================================
+2019-03-20 07:15:31 / Program Strat
+2019-03-20 07:15:33 / Program Exit
